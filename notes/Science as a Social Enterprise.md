@@ -1,7 +1,7 @@
 ---
 title: Science as a Social Enterprise
 created: '2024-01-16T22:36:59.055Z'
-modified: '2024-01-17T00:04:16.883Z'
+modified: '2024-01-18T16:40:27.804Z'
 ---
 
 # Science as a Social Enterprise
@@ -22,4 +22,20 @@ modified: '2024-01-17T00:04:16.883Z'
 - we base everything we do in science off of previously made assumptions
 - a "gestalt" switch is when you see a problem in a new context, that allows you to find the solution
 - sometimes the solution is to violate and ignore conventional beliefs and assumptions (quote this)
+
+**1.3 The Centrality of Communication in Science**
+- centrality in scientific communication seems counterproductive but it really is the foundation of good science
+- '"If scientists were prevented from communicating with each other, scientific progress would grind to a halt"'
+- 'Sharing ideas is essential to the evolution of every scientific field'
+- the scientist who gets their paper to the journal first gets the credit
+- The Royal Society of London was created to protect the rights of authors in this way
+- Marshall and Warren wrote a preliminary report instead of a full research report, so did Watson and Crick
+- journals run on a peer-review system for quality control
+- pre-publication bypasses the checks and balances and is risky
+- Pons and Fleischmann came out with a paper that was later marked erraneous and they didn't give any details about experiment for recreatablity
+
+**1.4 The Role of Persuasion in Scientific Communication**
+- 'To be persuasive, scientists must make the claims of their research believable in the context of the previous research and the existing paradigm of the field'
+- they must also present in a professional way that is accepted by the scientific community
+
 
