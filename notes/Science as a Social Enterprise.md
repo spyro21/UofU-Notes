@@ -1,7 +1,7 @@
 ---
 title: Science as a Social Enterprise
 created: '2024-01-16T22:36:59.055Z'
-modified: '2024-01-18T16:40:27.804Z'
+modified: '2024-01-18T22:38:22.894Z'
 ---
 
 # Science as a Social Enterprise
@@ -38,4 +38,9 @@ modified: '2024-01-18T16:40:27.804Z'
 - 'To be persuasive, scientists must make the claims of their research believable in the context of the previous research and the existing paradigm of the field'
 - they must also present in a professional way that is accepted by the scientific community
 
+**1.5 Scientific Communication and Convenction**
+- learning conventions happen overtime 
+- we have been learning conventions ever since we started learning about our field
+- need to understand field to read, and need to be able to read to understand field
+- let the socialization process take it's course, in teaching you how to initiate into your scientific community
 
